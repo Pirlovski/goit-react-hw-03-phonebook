@@ -77,7 +77,7 @@ localStorage.setItem("contacts" , JSON.stringify(this.state.contacts) )
 }
 render(){
   const {  filter} = this.state ;
-  // console.log(this.state.contacts) ; 
+  
 
 
 
